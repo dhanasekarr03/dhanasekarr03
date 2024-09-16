@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DHANASEKAR RAMESH</h1>
 <h3 align="center">A passionate software development engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/drive/folders/1gyyNvixmCAdD1rxonHF5Uqy9uI1mz99r?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://github.com/dhanasekarr03/dhanasekarr03/blob/main/Designer%20(11).jpeg">
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.truelancer.com/user-picture/378612-5fc8d2f510ee5.jpg"> -->
 
 <h3 align="left">Connect with me:</h3>
