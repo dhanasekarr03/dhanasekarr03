@@ -55,8 +55,10 @@
 
 <h3 align="left"> Languages</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanasekarr03&theme=dark&show_icons=true&locale=en&layout=compact" alt="dhanasekarr03" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanasekarr03&theme=dark&show_icons=true&locale=en&layout=compact" alt="dhanasekarr03" /></p> -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanasekarr03&theme=dark&show_icons=true&locale=en&layout=compact" alt="dhanasekarr03" />
+</div>
 
 
 
