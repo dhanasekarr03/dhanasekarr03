@@ -51,13 +51,13 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanasekarr03&show_icons=true&locale=en&layout=compact" alt="dhanasekarr03" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanasekarr03&theme=dark&show_icons=true&locale=en&layout=compact" alt="dhanasekarr03" /></p>
 
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanasekarr03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=dhanasekarr03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanasekarr03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanasekarr03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 
 </div>
