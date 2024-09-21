@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DHANASEKAR RAMESH</h1>
 <h3 align="center">A passionate software development engineer</h3>
-<img align="center" alt="Coding" width="600" src="https://github.com/dhanasekarr03/dhanasekarr03/blob/main/Designer%20(11).jpeg">
+<img align="center" alt="Coding" width="700" src="https://github.com/dhanasekarr03/dhanasekarr03/blob/main/Designer%20(11).jpeg">
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.truelancer.com/user-picture/378612-5fc8d2f510ee5.jpg"> -->
 
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +17,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -51,7 +51,14 @@
 
 </p>
 
+
+
+<h3 align="left"> Languages</h3>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanasekarr03&theme=dark&show_icons=true&locale=en&layout=compact" alt="dhanasekarr03" /></p>
+
+
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
