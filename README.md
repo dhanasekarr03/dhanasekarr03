@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm DHANASEKAR RAMESH</h1>
 <h3 align="center">A passionate software development engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/dhanasekarr03/dhanasekarr03/blob/main/Designer%20(11).jpeg">
+<img align="center" alt="Coding" width="400" src="https://github.com/dhanasekarr03/dhanasekarr03/blob/main/Designer%20(11).jpeg">
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.truelancer.com/user-picture/378612-5fc8d2f510ee5.jpg"> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhanasekar ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanasekar ramesh" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/dhanasekarrames1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanasekarrames1" height="30" width="40" /></a>
-
-<a href="https://codeforces.com/profile/dhanasekarramesh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanasekarramesh" height="30" width="40" /></a>
-
+<a href="https://codeforces.com/profile/dhanasekarramesh03" target="blank"><img align="center" src="https://github.com/dhanasekarr03/dhanasekarr03/blob/main/codeforce.jpeg" alt="dhanasekarramesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhanasekarramesh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanasekarramesh03" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/dhanasekarrdes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhanasekarrdes" height="30" width="40" /></a>
-
 </p>
 
 
